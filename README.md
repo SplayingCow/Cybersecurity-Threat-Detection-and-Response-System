@@ -22,3 +22,14 @@ The growing complexity of cyber threats demands a system that's both vigilant an
    ```bash  
    git clone https://github.com/splayingcow/GrazingGuard.git  
    cd GrazingGuard  
+
+   ## 🤝 Contributing  
+
+We welcome feedback, feature requests, and contributions to improve GrazingGuard. Here’s how you can get involved:  
+
+### Clone the Repository  
+Start by cloning the repository to your local machine:  
+```bash  
+git clone https://github.com/splayingcow/GrazingGuard.git  
+cd GrazingGuard  
+
